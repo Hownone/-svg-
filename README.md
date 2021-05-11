@@ -1,6 +1,7 @@
 # -svg-
 
 将图像文件转为svg图，并通过python的turtle库将其描画出来。
+无论是现实世界中的图像，还是二次元的图像都可以。
 
 # python中运用到的库
 beautifulsoup4
